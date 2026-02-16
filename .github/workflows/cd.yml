@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bordi54/ci-cd:latest
+          tags: bordi54/ci-cd:tagname
